@@ -1,4 +1,4 @@
-package d49Q18;
+package d49;
 
 public class Q18kadai {
     static void main(String[] args){
