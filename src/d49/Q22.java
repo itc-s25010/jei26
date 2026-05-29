@@ -2,7 +2,7 @@ package d49;
 
 public class Q22 {
     static void main(String[] args){
-        int length = 1600;
+        int length = 2100;
         String type;
         if (length < 1000){
             type = "Short";
