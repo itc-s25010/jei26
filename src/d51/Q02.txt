@@ -1,0 +1,6 @@
+Javaの基本データ型
+
+整数型:byte(8biy), short(16bit), int(32bit), long(64bit)
+文字型:char(160bit unicode1文字)
+浮動小数点型:float(32bit), double(64bit)
+理論型:boolean(ture/false)
